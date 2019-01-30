@@ -1,3 +1,5 @@
 LIBRARY "ELL"
 EXPORTS
 	ellTest
+	ellPassStruct
+	ellPassStruct02
