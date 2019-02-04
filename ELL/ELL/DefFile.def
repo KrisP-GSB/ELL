@@ -1,5 +1,8 @@
 LIBRARY "ELL"
 EXPORTS
-	ellTest
+	ellHello
+	ellHello01
 	ellPassStruct
 	ellPassStruct02
+	ellPassStruct03
+	ellChangeRemotely
