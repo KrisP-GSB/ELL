@@ -1,5 +1,5 @@
 ﻿  TestPassVariables.cpp
-c:\datakris\p14 ell earth look-a-like\ell\ell\testpassvariables.cpp(6): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
-c:\datakris\p14 ell earth look-a-like\ell\ell\testpassvariables.cpp(13): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
-c:\datakris\p14 ell earth look-a-like\ell\ell\testpassvariables.cpp(19): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\datakris\p14 ell earth look-a-like\ell\ell\testpassvariables.cpp(7): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\datakris\p14 ell earth look-a-like\ell\ell\testpassvariables.cpp(14): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\datakris\p14 ell earth look-a-like\ell\ell\testpassvariables.cpp(20): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
   ELL.vcxproj -> C:\DataKris\P14 ELL Earth Look-a-Like\ELL\Debug\ELL.dll

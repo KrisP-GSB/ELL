@@ -1,5 +1,6 @@
 #include "stdafx.h"
 #include "TestPassVariables.h"
+#include <iostream>
 
 int __stdcall ellPassStruct(typTmp &tmp) {
 	int r;
@@ -20,6 +21,7 @@ void __stdcall ellPassStruct03(typTmp &tmp) {
 }
 
 void __stdcall ellChangeRemotely(typTmp &tmp) {
-	tmp.c += tmp.a + tmp.b ; //tmp.c++;
+	//if (tmp.c == 4) { tmp.b = 5; }
+	tmp.c += (double)tmp.a + (double)tmp.b; //tmp.c++;
 }
 
