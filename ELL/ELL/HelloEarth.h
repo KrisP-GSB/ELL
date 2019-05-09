@@ -1,5 +1,6 @@
 #pragma once
-#include <string>
+#include "string"
+#include "oaidl.h"
+#include "atlsafe.h"		// See: https://msdn.microsoft.com/en-us/magazine/mt795188.aspx
 
-std::string __stdcall ellHello();
-int __stdcall ellHello01(int i);
+STDMETHODIMP ellHelloEarth(BYTE &count, SAFEARRAY **ppsa) noexcept;

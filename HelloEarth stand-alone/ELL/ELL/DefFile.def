@@ -1,0 +1,8 @@
+LIBRARY "ELL"
+EXPORTS
+	ellPassStruct
+	ellPassStruct02
+	ellPassStruct03
+	ellChangeRemotely
+	ellDummy
+	ellHelloEarth		;See HelloEarth module
